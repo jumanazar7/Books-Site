@@ -1,0 +1,3 @@
+# Edit Delete with Functions - DONE
+# CRUD Class based views - DONE
+# Forms
